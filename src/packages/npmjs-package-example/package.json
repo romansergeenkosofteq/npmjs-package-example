@@ -5,7 +5,7 @@
   "author": "",
   "repository": {
     "type": "git",
-    "url": "https://github.com/romansergeenkosofteq/npmjs-package-example/src/packages/npmjs-package-example"
+    "url": "https://github.com/romansergeenkosofteq/npmjs-package-example/tree/main/src/packages/npmjs-package-example"
   },
   "main": "index.js"
 }

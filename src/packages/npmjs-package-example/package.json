@@ -1,7 +1,7 @@
 {
   "name": "npmjs-package-example",
   "description": "Example of npm.js simple package",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "author": "",
   "repository": {
     "type": "git",

@@ -1,0 +1,1 @@
+# npmjs-package-example

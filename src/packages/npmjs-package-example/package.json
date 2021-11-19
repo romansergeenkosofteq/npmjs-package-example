@@ -1,11 +1,14 @@
 {
   "name": "npmjs-package-example",
   "description": "Example of npm.js simple package",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "",
   "repository": {
     "type": "git",
     "url": "https://github.com/romansergeenkosofteq/npmjs-package-example/tree/main/src/packages/npmjs-package-example"
+  },
+  "bugs": {
+    "url" : "https://github.com/romansergeenkosofteq/npmjs-package-example/labels/plugin-sdk",
   },
   "main": "index.js"
 }
